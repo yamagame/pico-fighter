@@ -1,0 +1,2 @@
+# pico-fighter
+シンプルなJavaScriptベースのゲームエンジンのサンプルゲームです。
