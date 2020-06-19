@@ -530,7 +530,7 @@
         }
       return false;
     },
-    touchth: 128,
+    touchth: 32,
     touch: function (touch) {
       var t = this;
       if (t.touchstep == 0) {
